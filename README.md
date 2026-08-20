@@ -1,4 +1,4 @@
 # ALPHA-IT-
-python basics 
+python basics &
 Machine learning 
 
